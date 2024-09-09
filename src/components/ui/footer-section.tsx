@@ -52,7 +52,7 @@ export default function FooterSection() {
                     <p>© 2024 Muhammad Fadel Akbar -- Baubau, Indonesia</p>
 
                     <div className="mt-4 flex items-center gap-6 text-xl lg:text-2xl justify-center lg:justify-start">
-                        <Link href="https://www.tiktok.com/@sycle.dev?_t=8odqA9nwTSh&_r=1" className="hover:text-cyan-400 transition-all duration-150 ease-in-out">
+                        <Link href="https://www.tiktok.com/@fadelakbar5?lang=id-ID" className="hover:text-cyan-400 transition-all duration-150 ease-in-out">
                             <FaTiktok />
                         </Link>
                         <Link href="https://www.linkedin.com/in/muhfadelakbar" className="hover:text-cyan-400 transition-all duration-150 ease-in-out">
