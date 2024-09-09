@@ -16,7 +16,7 @@ export default function Navbar() {
         <div className="flex justify-between items-center px-6 md:px-10 xl:px-20 py-6 fixed w-full bg-slate-950/50 backdrop-blur-md z-50" data-aos="fade-down" data-aos-delay="2800">
             <div className="">
                 <Link href={"#home"} className="text-2xl font-semibold tracking-wide">
-                    Sycle.dev
+                    Portfolio
                 </Link>
             </div>
 
