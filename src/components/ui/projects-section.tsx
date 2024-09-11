@@ -16,38 +16,17 @@ export default function ProjectsSection() {
 
 export const projects = [
     {
-        title: "CineTrack",
-        description: "A website to view movie or tv show details and watch trailers.",
+        title: "Helvi",
+        description: "Healthy Environment for Sustainable Smart City",
         link: "https://cinetrack-coral.vercel.app",
-        tech: ["NextJs", "TailwindCSS", "API"],
-        url: "/images/cinetrack.jpeg",
+        tech: ["Node.js", "Express.js", "RESTAPI", "Mysql"],
+        url: "/images/Helvi.jpg",
     },
     {
-        title: "Expense Tracker",
-        description: "An expense tracking application built using the Laravel framework enables users to effortlessly record and manage their expenses.",
-        link: "https://github.com/rtrivaldo/expense-tracker",
-        tech: ["Laravel", "TailwindCSS", "SQLite"],
-        url: "/images/expense-tracker.jpeg",
-    },
-    {
-        title: "Tic Tac Toe",
-        description: "A very simple Tic Tac Toe game built using React that allows 2 players to compete on a 3x3 game board.",
-        link: "https://tic-tac-toe-alpha-two-29.vercel.app",
-        tech: ["React", "TailwindCSS"],
-        url: "/images/tic-tac-toe.jpeg",
-    },
-    {
-        title: "Omah",
-        description: "Challenge from Codedesign.dev that required me to build a landing page based on a Figma design.",
-        link: "https://rtrivaldo.github.io/Omah",
-        tech: ["JavaScript", "TailwindCSS"],
-        url: "/images/omah.jpeg",
-    },
-    {
-        title: "Landscapio",
-        description: "Challenge from Codedesign.dev where I was given a task to code a landing page based on a Figma design.",
-        link: "https://rtrivaldo.github.io/landscapio",
-        tech: ["HTML", "CSS", "JavaScript"],
-        url: "/images/landscapio.jpeg",
+        title: "Annect",
+        description: "Academy Connect",
+        link: "https://annect.vercel.app/",
+        tech: ["Node.js", "Express.js", "RESTAPI", "Mysql"],
+        url: "/images/Annect.jpg",
     },
 ];
