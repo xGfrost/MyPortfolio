@@ -18,7 +18,7 @@ export const projects = [
     {
         title: "Helvi",
         description: "Healthy Environment for Sustainable Smart City",
-        link: "https://cinetrack-coral.vercel.app",
+        link: "https://github.com/xGfrost/projectAF.git",
         tech: ["Node.js", "Express.js", "RESTAPI", "Mysql"],
         url: "/images/Helvi.jpg",
     },
