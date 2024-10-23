@@ -9,7 +9,7 @@ export default function FooterSection() {
                 <div>
                     <p className="hidden lg:block">
                         Coded in Visual Studio Code by{" "}
-                        <Link href="https://linkedin.com/in/rivaldo-tandoko" target="_blank" className="text-white/70 font-medium hover:text-cyan-400 transition-all duration-150 ease-in-out">
+                        <Link href="https://www.linkedin.com/in/muhfadelakbar" target="_blank" className="text-white/70 font-medium hover:text-cyan-400 transition-all duration-150 ease-in-out">
                             Muhammad Fadel Akbar.
                         </Link>
                     </p>
