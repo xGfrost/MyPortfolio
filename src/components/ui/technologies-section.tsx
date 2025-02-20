@@ -186,4 +186,10 @@ const skills: { name: string; icon: ReactNode }[] = [
             </svg>
         ),
     },
+    {
+        name: "Nest.js",
+        icon: (
+            <img src="/images/nest.png" alt="NestJS Logo" width="1em" height="1em" className="size-12 lg:size-16" />
+        ),
+    },
 ];
