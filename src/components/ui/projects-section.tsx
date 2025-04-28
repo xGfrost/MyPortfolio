@@ -29,4 +29,11 @@ export const projects = [
         tech: ["Node.js", "Express.js", "RESTAPI", "Mysql"],
         url: "/images/Annect.jpg",
     },
+    {
+        title: "Diflex",
+        description: "Diflex is a platform that provides a geographic information system (GIS) to display the location of wheelchair-friendly and mobility-impaired public facilities. The goal is to help physically challenged users find accessible public facilities easily and safely.",
+        link: "https://diflex.vercel.app/",
+        tech: ["Express.js", "RESTAPI", "PostgreSQL"],
+        url: "/images/diflex.png",
+    },
 ];
