@@ -36,4 +36,18 @@ export const projects = [
         tech: ["Express.js", "RESTAPI", "PostgreSQL"],
         url: "/images/diflex.png",
     },
+    {
+        title: "SIAGA",
+        description: "SIAGA is a real-time monitoring website for early detection of water pooling. It displays live graphs of water levels and rainfall intensity, helping communities and authorities respond quickly to potential flooding.",
+        link: "https://siaga.bedaind.com/",
+        tech: ["Laravel", "MYSQL"],
+        url: "/images/siaga.png",
+    },
+    {
+        title: "Legal Text Analyzer",
+        description: "Legal Text Analyzer is a tool that analyzes Indonesian text to detect potential indications of defamation or false accusations under Pasal 310 KUHP, Pasal 311 KUHP, and Pasal 27A of the ITE Law. The results are indicative and do not replace professional legal consultation.",
+        link: "https://judge-sentiment-analysis.vercel.app/",
+        tech: ["Next.js"],
+        url: "/images/legal.png",
+    },
 ];
