@@ -30,9 +30,9 @@ export const projects = [
         url: "/images/Annect.jpg",
     },
     {
-        title: "Diflex",
-        description: "Diflex is a platform that provides a geographic information system (GIS) to display the location of wheelchair-friendly and mobility-impaired public facilities. The goal is to help physically challenged users find accessible public facilities easily and safely.",
-        link: "https://diflex.vercel.app/",
+        title: "Flexica",
+        description: "Flexica is a platform that provides a geographic information system (GIS) to display the location of wheelchair-friendly and mobility-impaired public facilities. The goal is to help physically challenged users find accessible public facilities easily and safely.",
+        link: "https://flexica.vercel.app/",
         tech: ["Express.js", "RESTAPI", "PostgreSQL"],
         url: "/images/diflex.png",
     },
@@ -49,5 +49,19 @@ export const projects = [
         link: "https://judge-sentiment-analysis.vercel.app/",
         tech: ["Next.js"],
         url: "/images/legal.png",
+    },
+    {
+        title: "BPBD",
+        description: "A disaster information platform for BPBD Kota Baubau that provides WebGIS-based mapping of disaster-prone areas, disaster news, SOP documents, and historical disaster records.",
+        link: "https://bpbd.baubaukota.go.id/",
+        tech: ["Next.js", "Typescript", "Leaflet.js", "PostgreSQL", "Prisma ORM"],
+        url: "/images/BPBD.png",
+    },
+    {
+        title: "PUSH (Platform for Upholding Socio-cultural Heritage)",
+        description: "PUSH is an interactive digital platform dedicated to preserving and promoting Indonesian cultural heritage through interactive maps, collaborative documentation, educational quizzes, and cultural analytics.",
+        link: "https://push-indonesia.vercel.app/",
+        tech: ["Next.js", "Node.js", "Leaflet.js", "PostgreSQL", "Clerk", "Midtrans", "UploadThing"],
+        url: "/images/PUSH.png",
     },
 ];
